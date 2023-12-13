@@ -11,7 +11,7 @@ void main()
 
     printf("Factorialul numarului %hi este %hi (recursiv)\n", numar, factorialRecursiv(numar));
     printf("Factorialul numarului %hi este %hi (iterativ)\n", numar, factorialIterativ(numar));
-}
+} 
 
 unsigned short factorialRecursiv(unsigned short numar)
 {
